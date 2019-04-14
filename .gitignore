@@ -1,0 +1,4 @@
+credentials.json
+virtual-env/*
+.vscode/*
+__pycache__/*
